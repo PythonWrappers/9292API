@@ -1,3 +1,4 @@
-URL = 'https://api.9292.nl'
-APIVERSION = '0.1'
+URL = 'https://reisadvies-api-ast.9292.nl'
+APIVERSION = 'v1/api'
 LANG = 'nl-NL'  # Another option is en-EN
+HEADERS = {'Authorization': 'Token '}
